@@ -5,9 +5,9 @@ The testing and training data can be found here:
   - https://www.kaggle.com/c/digit-recognizer/download/test.csv
 
 To install the requirements:
-'''
+```
 pip3 install -r requirements.txt
-'''
+```
 
 ## Decision Trees
 Categorization Accuracy = 0.85629
